@@ -1,0 +1,15 @@
+{
+  "name": "trello-power-up-weather-demo",
+  "version": "1.0.0",
+  "description": "Weather power up for trello",
+  "main": "index.js",
+  "repository": "https://github.com/tweeden/trello-power-up-weather-demo.git",
+  "author": "Terence Weeden",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build src/html/*.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
